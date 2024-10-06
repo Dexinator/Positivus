@@ -7,11 +7,11 @@
 
 @layer base {
   .font-outline {
-    -webkit-text-stroke: 2.5px black;
+    -webkit-text-stroke: 2.5px #091F2C;
     background-color: transparent;
   }
   .font-outline-sm {
-    -webkit-text-stroke: 1.2px black;
+    -webkit-text-stroke: 1.2px #091F2C;
     background-color: transparent;
   }
 }
@@ -51,7 +51,7 @@
   .accordion__icon::after {
     content: "";
     position: absolute;
-    background-color: black;
+    background-color: #091F2C;
     transition: opacity 0.3s ease;
   }
 
@@ -77,10 +77,10 @@
   .bubble {
     position: relative;
     padding: 8%;
-    background-color: black;
+    background-color: #091F2C;
     color: white;
     border-radius: 45px;
-    border: 1px solid #B9FF66;
+    border: 1px solid #EFDBB2;
   }
   .bubble:after {
     content: "";
@@ -89,7 +89,7 @@
     left: 50px; /* Adjust this value to move the arrow left or right */
     border-width: 22px; /* Adjust this value to change the size of the arrow */
     border-style: solid;
-    border-color: black transparent transparent black;
+    border-color: #091F2C transparent transparent #091F2C;
   }
   .bubble:before {
     content: "";
@@ -98,7 +98,7 @@
     left: 48px; /* This should be 1px less than the left value of .bubble:after */
     border-width: 20px; /* Adjust this to match the border-width of .bubble:after */
     border-style: solid;
-    border-color: #B9FF66 transparent transparent #B9FF66;
+    border-color: #EFDBB2 transparent transparent #EFDBB2;
   }
   .swiper-wrapper {
     position: relative;
@@ -118,5 +118,5 @@
 
 /* Some design */
 .bg-lime {
-  background-color: #B9FF66;
+  background-color: #EFDBB2;
 }
