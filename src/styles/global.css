@@ -5,6 +5,15 @@
 @tailwind utilities;
 
 
+@font-face {
+  font-family: 'Merriweather-Regular';
+  src: url('/fonts/Merriweather/Merriweather-Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 @layer base {
   .font-outline {
     -webkit-text-stroke: 2.5px #091F2C;
@@ -15,6 +24,11 @@
     background-color: transparent;
   }
 }
+body {
+  font-family: 'Merriweather-Regular';
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: "Lato";}
 
 /* custom scrollbar */
 ::-webkit-scrollbar {
@@ -37,6 +51,7 @@
 .content p {
   margin: 20px 0;
   font-size: 1.1rem;
+  font-family: 'Merriweather-Regular';
 }
 
 .content h2 {
