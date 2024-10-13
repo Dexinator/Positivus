@@ -11,7 +11,7 @@ export default {
 	  },
 	  colors: {
 		primary: "#EFDBB2",
-		black: "#000000",
+		black: "#091F2C",
 		white: "#FFFFFF",
 		gray: "#0D0C22",
 		stone: "#231F20",

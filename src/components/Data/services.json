@@ -4,39 +4,30 @@
         "name1": "Estudio de",
         "name2": "viabilidad",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "descripcion": "Este es un servicio destinado a empresas que desean obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
+        "descripcion": "Necesitas obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/01.svg"
+        "image": "./services/viabilidad.svg"
     },
     {
         "id": 2,
         "name1": "Exporta a",
         "name2": "México",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "descripcion": "Este es un servicio destinado a empresas que desean obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
+        "descripcion": "Cuando tu empresa que ya tiene a México como mercado objetivo y necesitas de un colaborador local que te ayude a que tu producto llegue al público objetivo.",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/02.svg"
+        "image": "./services/exportacion.svg"
     },
     {
         "id": 3,
         "name1": "Crea tu",
         "name2": "filial",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
-        "descripcion": "Este es un servicio destinado a empresas que desean obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
+        "descripcion": "Ayudamos a tu empresa a creación de una filial exitosa. Te ofrecemos orientación en la creación de una entidad legal, asesoramiento fiscal y contable y estrategias de mercado adaptadas a la cultura y normativa de México.",
         "arrow": "./services/aw.svg",
         "link": "./",
-        "image": "./services/03.svg"
-    },
-    {
-        "id": 4,
-        "name1": "Fabrica",
-        "name2": "en México",
-        "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "descripcion": "Este es un servicio destinado a empresas que desean obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
-        "arrow": "./services/ag.svg",
-        "link": "./",
-        "image": "./services/04.svg"
+        "image": "./services/establecete.svg"
     }
+
 ]
