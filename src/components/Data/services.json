@@ -6,7 +6,7 @@
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "descripcion": "Necesitas obtener una evaluación detallada de la viabilidad comercial de una idea o proyecto que tenga como objetivo el mercado mexicano.",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "/viabilidad",
         "image": "./services/viabilidad.svg"
     },
     {

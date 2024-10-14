@@ -28,33 +28,39 @@
     [
         {
             "index": 1,
-            "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Identificación de oportunidades de negocio ",
+            "content": "El objetivo de este servicio es proporcionar a tu empresa la información necesaria para tomar decisiones informadas sobre la inversión en proyectos de inversión o expansión de operaciones a México. Este estudio está dividido en: Estudio de mercado, Análisis financiero y Evaluación de riesgos.",
+            "bg":"/services/servicios_viabilidad.svg"
         },
         {
             "index": 2,
             "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
+            "bg":"/services/servicios_viabilidad.svg"
         },
         {
             "index": 3,
             "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
+            "bg":"/services/servicios_viabilidad.svg"
         },
         {
             "index": 4,
             "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
+            "bg":"/services/servicios_viabilidad.svg"
         },
         {
             "index": 5,
             "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
+            "bg":"/services/servicios_viabilidad.svg"
         },
         {
             "index": 6,
             "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
+            "bg":"/services/servicios_viabilidad.svg"
         }
     ]
 }
