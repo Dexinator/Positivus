@@ -2,28 +2,28 @@
     "viabilidad":
     [
         {"beneficio": "Socio Responsable en México",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/socio_resp.svg"},
         {"beneficio": "Equipo Multidisciplinar",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/multidi.svg"},
         {"beneficio": "Compromisos con Resultados",
-        "image":"services/exportacion.svg"}        
+        "image":"Benefits/compromiso.svg"}        
     ],
     "exporta":
     [
         {"beneficio": "Agilizamos la importación y logística",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/importacion.svg"},
         {"beneficio": "Gestión de licencias y burocracia",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/licencias.svg"},
         {"beneficio": "Control de inventario eficiente",
-        "image":"services/exportacion.svg"}        
+        "image":"Benefits/inventario.svg"}        
     ],
     "filial":
     [
         {"beneficio": "Mitigación de riesgos de inversión",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/mitigacion.svg"},
         {"beneficio": "Conectamos con Potenciales clientes",
-        "image":"services/exportacion.svg"},
+        "image":"Benefits/potenciales.svg"},
         {"beneficio": "Cumplimiento Normativo Empresarial",
-        "image":"services/exportacion.svg"}        
+        "image":"Benefits/normativo.svg"}        
     ]
 }

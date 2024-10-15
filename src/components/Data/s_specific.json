@@ -4,113 +4,68 @@
         {
             "index": 1,
             "label": "Identificación de oportunidades de negocio ",
-            "content": "El objetivo de este servicio es proporcionar a tu empresa la información necesaria para tomar decisiones informadas sobre la inversión en proyectos de inversión o expansión de operaciones a México. Este estudio está dividido en: Estudio de mercado, Análisis financiero y Evaluación de riesgos."
+            "content": "El objetivo de este servicio es proporcionar a tu empresa la información necesaria para tomar decisiones informadas sobre la inversión en proyectos de inversión o expansión de operaciones a México. Este estudio está dividido en:\n-Estudio de mercado\n-Análisis financiero\n-Evaluación de riesgos."
         },
         {
             "index": 2,
             "label": "Determinación de la demanda",
-            "content": "El objetivo de este servicio es obtener leads y oportunidades reales que nos permitan valorar si nuestro producto o servicio tiene potencial en México. Las fases de este estudio son: Identificación de canales y comportamiento de compradores potenciales, Creación de contenido optimizado al mercado mexicano, Análisis del rendimiento de las campañas, así como evaluación de los leads obtenidos en México "
+            "content": "El objetivo de este servicio es obtener leads y oportunidades reales que nos permitan valorar si nuestro producto o servicio tiene potencial en México. Las fases de este estudio son:\n-Identificación de canales y comportamiento de compradores potenciales\n-Creación de contenido optimizado al mercado mexicano\n-Análisis del rendimiento de las campañas, así como evaluación de los leads obtenidos en México "
         },
         {
             "index": 3,
             "label": "Búsqueda de distribuidores y agentes",
-            "content": "Conecta con agentes comerciales y distribuidores en México que te pueden ayudar a entrar en el mercado mexicano. Este proceso generalmente se desarrolla en las siguientes fases: Determinación del perfil ideal de distribuidor o partner,Búsqueda y preselección, Contacto y evaluación de candidatos, Negociación y formalización de acuerdos, Seguimiento"
+            "content": "Conecta con agentes comerciales y distribuidores en México que te pueden ayudar a entrar en el mercado mexicano. Este proceso generalmente se desarrolla en las siguientes fases:\n-Determinación del perfil ideal de distribuidor o partner\n-Búsqueda y preselección\n-Contacto y evaluación de candidatos\n-Negociación y formalización de acuerdos\n-Seguimiento"
         },
         {
             "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Acompañamiento a ferias y eventos",
+            "content": "¿Primera vez en México? Tenemos todos los recursos para que tu visita y participación en ferias sea un éxito. Nuestros expertos pueden ayudarte en las siguientes fases:\n-Selección y planificación del evento\n-Preparación, contrataciones locales\n-gestión del envío de material como importación temporal\n-desarrollo de material publicitario localmente\n-Diseño, montaje y desmontaje de stands o espacios de exposición\n-Apoyo durante el evento para maximizar la visibilidad y las oportunidades de networking\n-Evaluación post-evento"
         }
     ],
     "exporta":
     [
         {
             "index": 1,
-            "label": "Identificación de oportunidades de negocio ",
-            "content": "El objetivo de este servicio es proporcionar a tu empresa la información necesaria para tomar decisiones informadas sobre la inversión en proyectos de inversión o expansión de operaciones a México. Este estudio está dividido en: Estudio de mercado, Análisis financiero y Evaluación de riesgos.",
-            "bg":"/services_faro.svg"
+            "label": "Logística de importación",
+            "content": "El servicio de verificación de productos para importación es un proceso integral que asegura que tus mercancías cumplan con todos los requisitos y normativas necesarios para su ingreso a México. Este servicio incluye la revisión de documentación, el cumplimiento de estándares de calidad, seguridad y regulaciones ambientales. Además, se encarga de facilitar la logística, coordinando el transporte desde tu fábrica hasta el almacén de tu cliente, garantizando así un proceso de importación eficiente y sin contratiempos. Este tipo de servicio es esencial para evitar retrasos, costos adicionales o sanciones que pueden surgir al importar productos que no cumplen con la legislación aplicable."
         },
         {
             "index": 2,
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Agencia aduanal",
+            "content": "Contamos con agente aduanero, servicios de transporte aéreo y marítimo."
         },
         {
             "index": 3,
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Coordinación del transporte interno en México",
+            "content": "Este servicio incluye la planificación de rutas óptimas, la gestión de inventarios y la preparación de documentos necesarios para cumplir con las regulaciones aduaneras y de seguridad."
         }
     ],
     "filial":
     [
         {
             "index": 1,
-            "label": "Identificación de oportunidades de negocio ",
-            "content": "El objetivo de este servicio es proporcionar a tu empresa la información necesaria para tomar decisiones informadas sobre la inversión en proyectos de inversión o expansión de operaciones a México. Este estudio está dividido en: Estudio de mercado, Análisis financiero y Evaluación de riesgos.",
-            "bg":"/services_faro.svg"
+            "label": "Soft landing",
+            "content": "Te ofrecemos una plataforma de apoyo para establecerte en México, ofreciendo una estructura legal, operacional y comercial adaptada a tus necesidades en el mercado local."
         },
         {
             "index": 2,
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Servicios jurídicos para la creación de filial",
+            "content": "Te ayudamos a establecer una nueva entidad con personalidad jurídica propia, participada mayoritariamente por la sociedad matriz. Este servicio incluye:\n-Redacción de estatutos sociales\n-Definición de la estructura legal de la empresa\n-Alta en Hacienda, Apertura de cuentas bancarias para operar"
         },
         {
             "index": 3,
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Asesoría contable y fiscal",
+            "content": "Ofrecemos apoyo a tu empresa para garantizar el cumplimiento de las obligaciones fiscales y contables en el marco de la legislación mexicana. Este servicio incluye:\n-Revisión y gestión de la contabilidad interna\n-Cálculo de impuestos\n-Asesoría sobre la fiscalidad internacional\n-Tramitación de alta y atención de los requerimientos de Hacienda"
         },
         {
             "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Reclutamiento de personal y gestión de recursos humanos ",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
         },
         {
             "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
-        },
-        {
-            "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.",
-            "bg":"/services/servicios_viabilidad.svg"
+            "label": "Comisariado y vigilancia de la sociedad ",
+            "content": "Este servicio implica la supervisión y revisión de la gestión financiera de la filial, asegurando que todas las operaciones contables se realicen de acuerdo con las normativas y leyes aplicables y facilitando la confianza entre la matriz y la filial. Este servicio se responsabiliza de:\n-Revisión de los estados financieros y otros registros contables para verificar su precisión y legalidad\n-Evaluación de la eficacia de procedimientos y controles internos para prevenir y detectar cualquier irregularidad o desviación de las políticas corporativas\n-Agenda una cita con uno de nuestros expertos\n-Descubre las oportunidades que México tiene para ofrecer con nuestra asesoría experta. Nuestro equipo está listo para ayudarte."
         }
     ]
 }

@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Jorge Badillo",
+        "puesto": "Posicionamiento y venta digital",
+        "descripcion": "Con más de 5 años de experiencia, posicionando marcas B2C, B2B a través de herramientas como SEO y automatización de procesos",
+        "foto": "fotos/jorge.jpg"
+    },
+    {
+        "nombre": "Manel Martos",
+        "puesto": "Director General",
+        "descripcion": "15 años de experiencia importando productos a México. Conozco el proceso de manera integral, desde que sale de fábrica hasta la puerta del cliente final.",
+        "foto": "fotos/manel.jpg"
+    },
+    {
+        "nombre": "Tu nombre aquí",
+        "puesto": "Puesto",
+        "descripcion": "descre",
+        "foto": "fotos/random.jpg"
+    }
+
+]

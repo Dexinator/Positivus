@@ -20,9 +20,11 @@ const { index, title, description, bg } = Astro.props;
     aria-expanded="false"
     aria-controls={`${title} accordion__item menu content`}
   >
-    <div class="flex items-center gap-[25px]">
+    <div class="flex items-center gap-[25px] ">
       <span class="hidden sm:block sm:text-6xl">0{index}</span>
-      {title}
+      <div class="font-bold">
+       {title}
+      </div>
     </div>
     <div
       class="bg-white w-[58px] h-[58px] flex justify-center items-center rounded-full border border-dark"
@@ -40,7 +42,7 @@ const { index, title, description, bg } = Astro.props;
     class="accordion__content px-[60px]"
   >
     <div class="w-full h-[2px] bg-black"></div>
-    <p class="prose mb-4 mt-1 max-w-full pt-5 pb-[60px] transition-[height]">
+    <p class="prose mb-4 mt-1 max-w-full pt-5 pb-[60px] transition-[height]" style="white-space: pre-wrap">
       {description}
     </p>
   </div>

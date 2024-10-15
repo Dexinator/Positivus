@@ -1,0 +1,30 @@
+---
+import Container from "./Container.astro"
+import Topic from "./Topic.astro";
+import s_specific from './Data/s_specific.json';
+import Accordion from "./Accordion.astro";
+---
+
+<Container>
+    <div class="relative flex flex-col items-center md:flex-row">
+        <Topic title="Servicios de exportación" description="Llevamos tus productos hasta tu cliente final"/>
+    </div>
+    
+    <div class="flex-row items-center py-5">
+        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4">
+            {
+                s_specific.exporta.map((item) => {
+                    return (
+                    <Accordion
+                    index= {item.index}
+                    title={item.label}
+                    description={item.content}
+                    bg="/services_faro.svg"
+                    />
+                    );
+                })
+            }
+        </div>
+    </div>
+</Container>
+
