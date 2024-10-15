@@ -16,7 +16,7 @@
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "descripcion": "Cuando tu empresa que ya tiene a México como mercado objetivo y necesitas de un colaborador local que te ayude a que tu producto llegue al público objetivo.",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "/exporta",
         "image": "./services/exportacion.svg"
     },
     {
@@ -26,7 +26,7 @@
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "descripcion": "Ayudamos a tu empresa a creación de una filial exitosa. Te ofrecemos orientación en la creación de una entidad legal, asesoramiento fiscal y contable y estrategias de mercado adaptadas a la cultura y normativa de México.",
         "arrow": "./services/aw.svg",
-        "link": "./",
+        "link": "/filial",
         "image": "./services/establecete.svg"
     }
 
