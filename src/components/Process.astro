@@ -1,7 +1,7 @@
 ---
 import Container from "./Container.astro"
 import Topic from "./Topic.astro";
-import teamData from './Data/team.json';
+import s_specific from './Data/s_specific.json';
 import Accordion from "./Accordion.astro";
 ---
 
@@ -13,13 +13,13 @@ import Accordion from "./Accordion.astro";
     <div class="flex-row items-center py-5">
         <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4">
             {
-                teamData.process.map((item) => {
+                s_specific.viabilidad.map((item) => {
                     return (
                     <Accordion
                     index= {item.index}
                     title={item.label}
                     description={item.content}
-                    bg={item.bg}
+                    bg="/services_faro.svg"
                     />
                     );
                 })
